@@ -46,5 +46,17 @@ The unexpected detail of audio support, not previously highlighted, may indicate
 
 These servers aim to demonstrate MCP features and the TypeScript and Python SDKs.
 
+- [Weather](https://github.com/erhwenkuo/mcp-weather) - Provides weather forecasts and alert for U.S states
 
 
+## 🤝 Third-Party Servers
+
+
+### 🌎 Community Servers
+
+A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
+
+> **Note:** Community servers are **untested** and should be used at **your own risk**. They are not affiliated with or endorsed by Anthropic.
+- **[SearXNG](https://github.com/erhwenkuo/mcp-searxng)** - Utilize [SearXNG](https://docs.searxng.org) to provide secure/untrack web search capabilities to retrieval external most updated information.
+
+ 
